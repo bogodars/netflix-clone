@@ -27,12 +27,10 @@ const Nav = () => {
         />
         <img
           className='nav__avatar'
-          src='https://lh3.googleusercontent.com/proxy/dGIa6iFWH-iJuzQ6ZfyKBhaJkrd09YiVHkxntH6EfR2HbV4JhTxGIVpUKWGrYf8PPv2LjcUxSCvzyt9GNkryzi5r2jNGyGy_khCXhtI2P6Vdcxb8jVqJzYzvb5LZ'
+          src='https://react.semantic-ui.com/images/avatar/large/patrick.png'
           alt=''
         />
       </div>
-
-      <h1>This is the nav</h1>
     </div>
   );
 };

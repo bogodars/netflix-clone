@@ -18,10 +18,10 @@
 }
 
 .banner__description {
-  width: 45rem;
+  width: 30rem;
   line-height: 1.3;
   padding-top: 1rem;
-  font-size: 0.8;
+  font-size: 0.8rem;
   min-width: 360px;
   height: 80px;
 }
