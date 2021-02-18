@@ -21,12 +21,13 @@ function App() {
         );
       } else {
         //Logged out
+        dispatch(logout());
       }
     });
     return () => {
       unsubscribe();
     };
-  }, []);
+  }, [dispatch]);
 
   return (
     <div className='App'>
